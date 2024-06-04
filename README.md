@@ -8,7 +8,7 @@ My aim is to become a devops engineer. I have learned the foundations of technol
 
 * 🌍  I'm based in Warsaw
 * 💼  Looking for a job
-* 🖥️  See my LinkedIn profile [LinkedIn](http://https://www.linkedin.com/in/dzianis-nenartovich/)
+* 🖥️  See my [LinkedIn]profile(https://www.linkedin.com/in/dzianis-nenartovich/)
 * ✉️  You can contact me at [dennenartovich@gmail.com](mailto:dennenartovich@gmail.com)
 * 🧠  I'm learning DevOps Practices
 
