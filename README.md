@@ -1,7 +1,7 @@
 Hi 👋 My name is Dzianis Nenatovich
 ===================================
 
-I want to be a Devops engineer.
+Devops engineer.
 -------------------------------
 
 System Engineer with over 6 years of experience in designing, administering, and optimizing IT infrastructure. Possess deep knowledge of Ansible, Docker, AWS, and Terraform. Extensive experience in system administration, including configuration, maintenance, and monitoring of servers, network equipment, and operating systems. Proficient in implementing DevOps practices such as CI/CD automation, containerization, orchestration, and Infrastructure as Code (IaC) management. Continuously learning and integrating modern technologies and methodologies in both professional work and personal projects.
