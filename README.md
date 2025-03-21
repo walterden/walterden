@@ -4,7 +4,7 @@ Hi 👋 My name is Dzianis Nenatovich
 I want to be a Devops engineer.
 -------------------------------
 
-My aim is to become a devops engineer. I have learned the foundations of technologies such as: \*nix os, git, docker, ansible, terraform and continue to learn other technologies as part of the roadmap of this profession. I have earned multiple certifications in Linux, Shell Scripting, Docker, Ansible, and Terraform and continue to learn more.
+System Engineer with over 6 years of experience in designing, administering, and optimizing IT infrastructure. Possess deep knowledge of Ansible, Docker, AWS, and Terraform. Extensive experience in system administration, including configuration, maintenance, and monitoring of servers, network equipment, and operating systems. Proficient in implementing DevOps practices such as CI/CD automation, containerization, orchestration, and Infrastructure as Code (IaC) management. Continuously learning and integrating modern technologies and methodologies in both professional work and personal projects.
 
 * 💼  Looking for a job
 * 🌍  I'm based in Warsaw
